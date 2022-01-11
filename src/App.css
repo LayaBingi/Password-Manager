@@ -44,6 +44,14 @@ body {
   margin-bottom: 20px;
 }
 
+.sub-div1-image1 {
+  width: 25%;
+  height: 100%;
+}
+.sub-div1-image2 {
+  display: none;
+}
+
 .add-details {
   display: flex;
   flex-direction: column;
@@ -103,14 +111,6 @@ body {
   outline: none;
   border-radius: 2px;
   align-self: flex-end;
-}
-
-.sub-div1-image1 {
-  width: 25%;
-  height: 100%;
-}
-.sub-div1-image2 {
-  display: none;
 }
 
 .sub-div2 {
